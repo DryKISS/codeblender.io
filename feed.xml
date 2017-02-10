@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:code blender:http://codeblender.net</id>
+  <title/>
+  <subtitle/>
+  <link href=""/>
+  <link href="http://codeblender.netfeed.xml" rel="self"/>
+  <author>
+    <name/>
+    <email/>
+    <uri/>
+  </author>
+  <updated>2016-07-08T00:00:00+01:00</updated>
+  <entry>
+    <id>http://codeblender.net/docs/developer/ios-publication.html</id>
+    <title>Publish iOS platform applications</title>
+    <published>2016-07-08T00:00:00+01:00</published>
+    <updated>2016-07-08T00:00:00+01:00</updated>
+    <category>developer</category>
+    <link rel="alternate" href="/docs/developer/ios-publication.html"/>
+    <summary type="html">&lt;ul id="markdown-toc"&gt;
+  &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This article outlines the process to publish a Cordova...&lt;/p&gt;</summary>
+    <content type="html">&lt;ul id="markdown-toc"&gt;
+  &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This article outlines the process to publish a Cordova iOS application to the
+Apple store. It assumes that Cordova and relevant iOS SDKs have been setup and
+configured. These are briefly bulleted below.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Mac - unfortunately this is required to run the Apple software needed
+    &lt;ul&gt;
+      &lt;li&gt;Mavericks&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;iOS device(s), recommended over the emulator to fully test the application&lt;/li&gt;
+  &lt;li&gt;Install Xcode from the Mac App Store, and Command line tools
+    &lt;ul&gt;
+      &lt;li&gt;$ xcode-select –install&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;$ npm install -g cordova&lt;/li&gt;
+  &lt;li&gt;$ npm install -g ios-sim&lt;/li&gt;
+  &lt;li&gt;$ npm install -g ios-deploy&lt;/li&gt;
+  &lt;li&gt;$ cordova platform add ios –save&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Add any cordova plugins necessary.&lt;/p&gt;
+
+&lt;h2 id="distribution-quick-start"&gt;Distribution quick start&lt;/h2&gt;
+
+&lt;p&gt;Following Apple's &lt;a href=""&gt;distribution quick start&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the first instances of development you likely just want to get your app
+running locally on your USB connected iOS device. Luckily this is also a step
+into getting it into the Apple store.&lt;/p&gt;
+
+&lt;p&gt;Note you do not need an Apple developer account for deployment onto a local device.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add Apple ID to Xcode&lt;/li&gt;
+  &lt;li&gt;Signing identities&lt;/li&gt;
+  &lt;li&gt;Provisioning profiles&lt;/li&gt;
+  &lt;li&gt;Verify access to your developer account&lt;/li&gt;
+  &lt;li&gt;Launch app on connected iOS device&lt;/li&gt;
+  &lt;li&gt;Enable app services, such as iPay&lt;/li&gt;
+  &lt;li&gt;Back up signing identities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="naming-an-application"&gt;Naming an application&lt;/h2&gt;
+
+&lt;p&gt;The following fields will be required&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Product Name            : Cordova Test&lt;/li&gt;
+  &lt;li&gt;Organisation name       : DryKISS Ltd&lt;/li&gt;
+  &lt;li&gt;Organisation identifier : com.drykiss.cordovatest
+    &lt;ul&gt;
+      &lt;li&gt;After an app is available on the store, its bundle ID can't be changed.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Language                : Objective C&lt;/li&gt;
+  &lt;li&gt;Devices                 : Universal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open Xcode&lt;/li&gt;
+  &lt;li&gt;Choose Xcode &amp;gt; Preferences&lt;/li&gt;
+  &lt;li&gt;At the top of the window, click Accounts&lt;/li&gt;
+  &lt;li&gt;In the lower-left corner, click the Add button (+)&lt;/li&gt;
+  &lt;li&gt;Choose Add Apple ID from the pop-up menu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="distribution-workflow"&gt;Distribution workflow&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enroll in the Apple developer program&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Selecting the best workflow for your team depends on the nature of the development.
+Creating a Hybrid cross-platform app&lt;/p&gt;
+
+&lt;p&gt;https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html&lt;/p&gt;
+
+&lt;h2 id="exporting-for-testing"&gt;Exporting for Testing&lt;/h2&gt;
+
+&lt;p&gt;https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/TestingYouriOSApp/TestingYouriOSApp.html#//apple_ref/doc/uid/TP40012582-CH8&lt;/p&gt;
+
+&lt;h2 id="submitting-the-application"&gt;Submitting the application&lt;/h2&gt;
+
+&lt;p&gt;https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/#package-the-ios-version-of-your-app
+https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/SubmittingYourApp/SubmittingYourApp.html#//apple_ref/doc/uid/TP40012582-CH9
+https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingProfiles/MaintainingProfiles.html#//apple_ref/doc/uid/TP40012582-CH30-SW991&lt;/p&gt;
+
+&lt;p&gt;Check connected devices&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;$ ios-deploy -c
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Run in X-Code to generate certificate&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;$ cordova build ios
+$ bundle exec middleman build --clean &amp;amp;&amp;amp; cordova run --device
+
+$ cordova build ios --release
+@see http://stackoverflow.com/questions/24061063/how-can-i-deploy-create-ipa-iphone-app-using-cordova-build-ios-release
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="useful-links"&gt;Useful links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=""&gt;iOS Platform Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+    <author>
+      <name/>
+      <email/>
+      <uri/>
+    </author>
+  </entry>
+  <entry>
+    <id>http://codeblender.net/docs/developer/blog-template.html</id>
+    <title>Blog Template</title>
+    <published>2016-07-08T00:00:00+01:00</published>
+    <updated>2016-07-08T00:00:00+01:00</updated>
+    <category>developer</category>
+    <link rel="alternate" href="/docs/developer/blog-template.html"/>
+    <summary type="html">&lt;ul id="markdown-toc"&gt;
+  &lt;li&gt;
+&lt;a href="#heading-h1" id="markdown-toc-heading-h1"&gt;Heading H1&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#heading-h2" id="markdown-toc-heading-h2"&gt;Heading H2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="heading-h1"&gt;Heading H1&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum, diam
+sit amet fermentum tempor, metus metus consectetur tellus, quis euismod dui
+ligula vitae purus. Suspendisse sed...&lt;/p&gt;</summary>
+    <content type="html">&lt;ul id="markdown-toc"&gt;
+  &lt;li&gt;&lt;a href="#heading-h1" id="markdown-toc-heading-h1"&gt;Heading H1&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#heading-h2" id="markdown-toc-heading-h2"&gt;Heading H2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="heading-h1"&gt;Heading H1&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum, diam
+sit amet fermentum tempor, metus metus consectetur tellus, quis euismod dui
+ligula vitae purus. Suspendisse sed blandit augue, sodales dapibus neque.&lt;/p&gt;
+
+&lt;h2 id="heading-h2"&gt;Heading H2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum, diam
+sit amet fermentum tempor, metus metus consectetur tellus, quis euismod dui
+ligula vitae purus. Suspendisse sed blandit augue, sodales dapibus neque.&lt;/p&gt;
+
+&lt;!--
+&lt;blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:8px;"&gt; &lt;div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"&gt; &lt;div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=" margin:8px 0 0 0; padding:0 4px;"&gt; &lt;a href="https://www.instagram.com/p/BM5N4Z0jIy8/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"&gt;Restaurant in a box! Spent all day here working, great wifi, nice food and ambience. #bangkok #drykiss #cafe #rinb #thailand #foodpic&lt;/a&gt;&lt;/p&gt; &lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;A photo posted by DryKISS (@drykissltd) on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-11-17T02:10:59+00:00"&gt;Nov 16, 2016 at 6:10pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;a data-pin-do="embedPin" data-pin-width="large" href="//www.pinterest.com/pin/273101164879760145/"&gt;&lt;/a&gt;
+ --&gt;
+</content>
+    <author>
+      <name/>
+      <email/>
+      <uri/>
+    </author>
+  </entry>
+</feed>
