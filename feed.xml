@@ -19,29 +19,34 @@
     <category>developer</category>
     <link rel="alternate" href="/docs/developer/ios-publication.html"/>
     <summary type="html">&lt;ul id="markdown-toc"&gt;
-  &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful links&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="#publish-ios-platform-applications" id="markdown-toc-publish-ios-platform-applications"&gt;Publish iOS platform applications&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;This article outlines the process to publish a Cordova...&lt;/p&gt;</summary>
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
     <content type="html">&lt;ul id="markdown-toc"&gt;
-  &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful links&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#publish-ios-platform-applications" id="markdown-toc-publish-ios-platform-applications"&gt;Publish iOS platform applications&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#introduction" id="markdown-toc-introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#distribution-quick-start" id="markdown-toc-distribution-quick-start"&gt;Distribution quick start&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#naming-an-application" id="markdown-toc-naming-an-application"&gt;Naming an application&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#add-apple-id-to-xcode" id="markdown-toc-add-apple-id-to-xcode"&gt;Add Apple ID to Xcode&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#distribution-workflow" id="markdown-toc-distribution-workflow"&gt;Distribution workflow&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#exporting-for-testing" id="markdown-toc-exporting-for-testing"&gt;Exporting for Testing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#submitting-the-application" id="markdown-toc-submitting-the-application"&gt;Submitting the application&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#useful-links" id="markdown-toc-useful-links"&gt;Useful links&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id="publish-ios-platform-applications"&gt;Publish iOS platform applications&lt;/h1&gt;
 
 &lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 

@@ -2,2743 +2,2797 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/portfolio/author/ian-warner.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2013/01.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2013/01/01.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/category/wordpress.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/category/site.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/404.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/address/address.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/atom.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/badge/badge.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/blockquote/blockquote.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/button/button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/clear-button/clear-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/clipboard/clipboard.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/detail/detail.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/checkbox/checkbox.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/form.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/input/input.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/radio/radio.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/select/select.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/textarea/textarea.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/form/validation/validation.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/geolocation/geolocation.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/http-interceptor/http-interceptor.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/icon/icon.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/icon-stacked/icon-stacked.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/image/image-preview.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/image/image-zoom.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/image/image.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/label/label.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/list-dropdown/list-dropdown.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/list-dt/list-dt.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/list-ul/list-ul.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/loading/loading.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/local-storage/local-storage.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/person/person.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/ribbon/ribbon.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/scaffolding/scaffolding.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/shape/shape.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/speech/speech.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/swatch/swatch.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/vcard/vcard.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/video/video.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/atom/well/well.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/user-experience/accessibility.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/accounting.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/alerting.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/reporting/analytics.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/angular.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/server/apache.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/api.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/apple-certificates.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/apple.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/backbone.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/user-experience/blog-posts.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/blog-template.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/user-experience/blog.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/bourbon.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/bower.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/bundler.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/cache.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/design/colour.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/composer.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/continuous-integration/continuous-intergration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/desktop-apps.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/e-commerce.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/email.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/enom.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/file-system.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/design/font.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/front-end.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/economy/garage-rental.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/gems.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/geo-location.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/git.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/gollum.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/hybrid/google-play.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/grunt.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/haml-template.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/homebrew.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/design/infographics.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/ios-publication.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/development/java.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/job-sites.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/kodi.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/laravel.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/economy/linkedin.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/localization.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/logging.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/mandrill.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/middleman.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/database/mysql.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/network.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/nginx.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/node.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/parallax.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/paypal.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/phantomjs.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/phonegap.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/back-end/php.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/project-brief.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/project-management.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/rbenv.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/ripple.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/search.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/seo.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/social.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/solar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/developer/sublime.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/sugar-crm.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/user-experience/svg.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/testing.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/front-end/thor.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/trello/trello.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/business/tv-applications.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/user-experience/ux.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/infrastructure/virtualisation.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/cup/cup.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/fixture/fixture.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/fixture/fixture_template.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/football.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/matrix/matrix.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/player/player.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/referee/referee.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/table/table.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/team/team.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/football/venue/venue.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/media/domain/domain.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/media/media.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/meta/meta.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/mobile/mobile.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/alert/alert.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/amchart/amchart.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/angular-ui-grid/angular-ui-grid.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/archive/archive.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/brand/brand.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/breadcrumb/breadcrumb.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/button-group/button-group.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/carousel/carousel.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/cart/cart.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/code/code.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/coderwall/coderwall.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/collapse/collapse.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/configuration/configuration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/credit-card/credit-card.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/datatable/datatable.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/detail/detail.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/dropdown/dropdown.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/dropdown-navbar/dropdown-navbar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/dropzone/dropzone.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/editor/editor.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/flex-slider/flex-slider.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/forgot-password/forgot-password.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/heading/heading.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/jumbotron/jumbotron.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/list-group/list-group.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/local/local.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/login/login.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/media/media.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/modal/modal.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/molecule.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/nav/nav.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/nav-above/nav-above.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/nav-below/nav-below.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/navbar/navbar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/notification/notification.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/off-canvas/off-canvas.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pager/pager.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/panel/panel.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/password-strength/password-strength.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/popover/popover.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pricing-table/pricing-table.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/progress-bar/progress-bar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/recent/recent.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/registration/registration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/resource/resource.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/search-google/search-google.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/search-input/search-input.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/search-lunr/search-lunr.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/shop/shop.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/subnavigation/subnavigation.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/tab/tab.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/table/table.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/tag-cloud/tag-cloud.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/thumbnail/thumbnail.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/todo/todo.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/tooltip/tooltip.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/top-icon/top-icon.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/widget/widget.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/footer/footer.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/gallery/gallery.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/header/header.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/iphone/iphone.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/organism.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/registration/registration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/sidebar/sidebar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/organism/timeline/timeline.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/mobile/circus-street.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/site/greentouch-pi.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/site/minesoft.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/wordpress/deliveroo.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/search.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/disqus/comment/comment.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/disqus/disqus.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/comment/comment.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/comment-embedded/comment-embedded.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/facebook.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/follow-button/follow-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/like-button/like-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/login/login.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/page-plugin/page-plugin.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/post-embedded/post-embedded.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/quote-plugin/quote-plugin.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/save-button/save-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/send-button/send-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/share-button/share-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/video-embed/video-embed.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/facebook/video-embedded/video-embedded.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/firebase/firebase.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/flikr/flikr.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/google/adsense/adsense.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/google/analytics/analytics.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/google/google.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/social/google/places/places.html</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/google/plus/plus.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/google/signin/signin.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/gravatar/gravatar.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/linkedin/linkedin.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/linkedin/share-button/share-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/mailchimp/mailchimp.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/pinterest/pinterest.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/social/pinterest/save-button/save-button.html</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/skype/skype.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/social.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/stripe/stripe.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/tiptheweb/tiptheweb.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/treatwell/treatwell.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/twitter/follow-button/follow-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/twitter/timeline/timeline.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/twitter/tweet-button/tweet-button.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/twitter/twitter.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/social/youtube/youtube.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article/article.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/contact/contact.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/portfolio/portfolio.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/prototype/prototype.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/template.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/accessibility.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/accounting.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/finances.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/alerting.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/analytics.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/angular.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/apache.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/ubuntu.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/api.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/apple.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/backbone.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/javascript.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/blog.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/ios.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/developer.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/bourbon.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/bower.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/bundler.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/cache.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/colour.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/composer.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/continuous-integration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/desktop.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/e-commerce.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/email.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/google.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/gmail.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/enom.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/file-system.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/font.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/front-end.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/home.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/gems.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/geo-location.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/git.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/gollum.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/hybrid.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/mobile.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/grunt.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/haml.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/homebrew.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/infographic.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/java.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/job.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/education.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/skills.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/kodi.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/laravel.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/social.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/profile.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/localization.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/internationalization.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/i18n.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/logging.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/newsletter.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/marketing.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/middleman.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/mysql.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/network.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/nginx.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/node.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/parallax.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/paypal.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/phantomjs.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/phonegap.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/php.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/project-brief.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/project-management.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/rbenv.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/ripple.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/search.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/seo.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/facebook.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/sublime.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/text-editor.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/sugarcrm.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/crm.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/svg.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/testing.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/tdd.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/thor.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/ruby.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/trello.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/tv.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/user-experience.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/tag/virtualisation.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/07.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/07/08.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/07/06.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/05.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/05/09.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/02.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/02/25.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/02/05.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/01.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/01/05.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2015.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2015/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2015/10/15.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2015/04.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2015/04/08.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/03.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/03/16.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2011.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2011/02.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2011/02/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/developer.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/hybrid.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/economy.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/user-experience.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/business.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/front-end.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/back-end.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/infrastructure.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/database.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/development.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/design.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/continuous-integration.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/server.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/trello.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/reporting.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/author/ian-warner.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/2/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/3/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/4/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/5/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/6/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/7/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/8/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/9/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/10/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/11/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/12/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/13/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/14/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/page/15/</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/4.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/5.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/6.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/7.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/molecule/pagination/pagination/page/8.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/9.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/11.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/12.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/14.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/molecule/pagination/pagination/page/15.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/4.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/5.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/6.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/7.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/8.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/9.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/11.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/12.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/14.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/template/article-list/article-list/page/15.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2016/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/4.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/5.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/6.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/7.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/8.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/9.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/11.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/12.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/page/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/4.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/5.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/6.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/7.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/8.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/9.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/11.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/12.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/page/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/4.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/5.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/6.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/7.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/8.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/9.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/10.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/11.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/12.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/calendar/2014/01/20/page/13.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/developer/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/developer/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/business/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/business/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/front-end/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/front-end/page/3.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/back-end/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/docs/category/infrastructure/page/2.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/tag/mobile.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/tag/site.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/tag/wordpress.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/09.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/09/07.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/06.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/06/07.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/03.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2016/03/01.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/portfolio/calendar/2013.html</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
